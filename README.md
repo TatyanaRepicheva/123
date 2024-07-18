@@ -1,6 +1,6 @@
 # Репичева Татьяна Анатольевна
 
-<img src="https://github.com/TatyanaRepicheva/My-CV/blob/5cbd8dcba0b3a6fa19c9c7c19c5fc0c997671ce3/AVD_6406-2.jpg?raw=true" align="left" width="235"/>
+<img src="https://github.com/TatyanaRepicheva/My-CV/blob/5cbd8dcba0b3a6fa19c9c7c19c5fc0c997671ce3/AVD_6406-2.jpg?raw=true" align="right" width="235"/>
 
 **Женщина, 39 лет, родилась 3 января 1985**
 
