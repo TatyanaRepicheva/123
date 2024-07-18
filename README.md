@@ -5,9 +5,9 @@
 **Женщина, 39 лет, родилась 3 января 1985**
 
 **Контакты:**
-- Телефон: +7 (978) 0633088
+- Телефон: [+7 (978) 063-30-88](tel:79780633088)
 - Email: [tteresh1013@gmail.com](mailto:tteresh1013@gmail.com)
-- Skype: tanya.terret.blueberry
+- Skype: [tanya.terret.blueberry](skype:tanya.terret.blueberry)
 - LinkedIn: [Татьяна Репичева](https://linkedin.com/tatyanarepicheva/)
 
 **Местоположение:**
