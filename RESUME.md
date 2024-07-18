@@ -39,7 +39,8 @@
   <summary>Сентябрь 2023 — настоящее время (11&nbsp;месяцев)</summary>
 
   <br>
-  **Purrweb, Омск**  
+  
+  **Purrweb**, Омск  
   Сайт: [purrweb.com](https://purrweb.com)  
   Сфера: Информационные технологии, системная интеграция, интернет
 
@@ -68,8 +69,9 @@
   <summary>Август 2022 — Август 2023 (1&nbsp;год 1&nbsp;месяц)</summary>
 
   <br>
-  **UULA, Кувейт**
-  Сайт: [uula.com](https://uula.com)
+  
+  **UULA**, Кувейт
+  <br>Сайт: [uula.com](https://uula.com)
 
   **QA&nbsp;Principal**
   - Построение процессов и&nbsp;установление стандартов тестирования продукта (образовательный портал)
@@ -88,6 +90,7 @@
   <summary>Июнь 2016 — Июль 2022 (6&nbsp;лет 2&nbsp;месяца)</summary>
 
   <br>
+  
   **Blueberry&nbsp;consultants**  
   Сайт: [bbconsult.co.uk](https://www.bbconsult.co.uk)  
   Сфера: Информационные технологии, системная интеграция, интернет
@@ -117,8 +120,9 @@
   <summary>Август 2013 — Июнь 2016 (2&nbsp;года 11&nbsp;месяцев)</summary>
 
   <br>
+  
   **SoftServe**, Украина 
-  Сайт: [softserve.ua](https://www.softserve.ua)  
+  <br>Сайт: [softserve.ua](https://www.softserve.ua)  
   Сфера: Информационные технологии, системная интеграция, интернет
 
  
@@ -147,6 +151,7 @@
   <summary>Февраль 2010 — Август 2013 (3&nbsp;года 7&nbsp;месяцев)</summary>
 
   <br>
+  
   **“ISD” (Information&nbsp;Systems&nbsp;Development)**, Украина  
   Сайт: [isd.dp.ua](https://www.isd.dp.ua)  
   Сфера: Информационные технологии, системная интеграция, интернет
