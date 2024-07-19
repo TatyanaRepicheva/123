@@ -5,31 +5,26 @@
 **Female, 39&nbsp;years&nbsp;old, born&nbsp;on January 3,&nbsp;1985**
 
 **Contact Information:**
-- Phone: [+7&nbsp;(978)&nbsp;063-30-88](tel:79780633088)
+- WhatsApp: [+9&nbsp;(715)&nbsp; 859 025 40](whatsapp:971585902540)
 - Email: [tteresh1013@gmail.com](mailto:tteresh1013@gmail.com)
 - Skype: [tanya.terret.blueberry](skype:tanya.terret.blueberry)
 - LinkedIn: [Tatyana Repicheva](https://linkedin.com/tatyanarepicheva/)
 
 **Location:**
-- Residence: Sevastopol
-- Citizenship: Russia (work&nbsp;permit in&nbsp;Russia)
+- Residence: Dubai, UAE
+- Citizenship: UAE (work&nbsp;permit in&nbsp;UAE)
 - Open to&nbsp;infrequent business trips, not&nbsp;open to&nbsp;relocation
 
 ---
 
 ## Desired Position and&nbsp;Salary
 
-**Position:** Head&nbsp;of&nbsp;QA  
-**Specializations:**  
-- Development Team&nbsp;Lead
-- QA&nbsp;Engineer
-- Chief Information Officer (CIO)
-- Chief Technical Officer (CTO)
+**Position:** Head&nbsp;of&nbsp;QA, QA&nbsp;principal  
+
 
 **Employment:** Full-time, Part-time, Project-based  
 **Work Schedule:** Full&nbsp;day, Shift&nbsp;schedule, Flexible&nbsp;schedule, Remote&nbsp;work  
-**Preferred commute&nbsp;time:** Does&nbsp;not&nbsp;matter  
-**Salary:** 8000&nbsp;$
+**Salary:** 8000&nbsp;$&nbsp;per&nbsp;month
 
 ---
 
@@ -40,7 +35,7 @@
 
 <br>
 
-  **Purrweb**, Omsk
+  **Purrweb**, USA
   <br>Website: [purrweb.com](https://purrweb.com)
   <br>Industry: Information Technology, System Integration, Internet
 
@@ -59,9 +54,9 @@
 
   **Achievements:**
   - Built QA&nbsp;organizational structure, mentoring institute
-  - Introduced knowledge assessment and&nbsp;grading system
+  - Developed knowledge model, QA assessment and&nbsp;grading system
   - Established test automation from&nbsp;scratch in&nbsp;the&nbsp;company
-  - Conducted training sessions for&nbsp;project managers on&nbsp;QA
+  - Conducted training sessions for&nbsp;project managers
   - Developed a&nbsp;product segmentation constructor for&nbsp;the&nbsp;sales department and&nbsp;corresponding QA&nbsp;services
 </details>
 
