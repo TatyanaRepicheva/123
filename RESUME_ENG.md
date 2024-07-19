@@ -193,7 +193,6 @@ High: VSHPD VCSP&nbsp;im.&nbsp;N.M.&nbsp;Shvernik
 ## Key&nbsp;Skills
 
 **Languages:**  
-- Russian — Native
 - English — C1&nbsp;— Advanced
 
 **Skills:**  
