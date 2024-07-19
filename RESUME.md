@@ -1,6 +1,6 @@
 # Tatyana Repicheva
 
-<img src="https://s610vla.storage.yandex.net/rdisk/34db93e2359bba8805556330df0cdb69918006adf9d4c56edd9d6466ac1a2ffe/66995d1f/2_SpWt3s-WnTmBL-7lf9_T0b21UOKIPZiFVXg0vz9H2KbSdunAObQ2cdtuZq8RIPEqkc3UNHnHUJ3Psc1vvwCQ==?uid=0&filename=AVD_6406-2%202.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&fsize=3755499&hid=9424a4ec3696323668b3f8174b30e709&media_type=image&tknv=v2&etag=5ed5d38bb84a8d9141c252f2396f4916&ts=61d89a52a45c0&s=ba08954c9e95e0ad2406cfada7b47f89d630d110aef4513c3a454bf24af63d90&pb=U2FsdGVkX18LTnGOpl76k56QO_33y_NTgKRgUAwspjnTpP36yy9hrlEnbMajiMZUKa9j-rzMmEw8C-0L7LBPtq_jfrOLRJ1-A-F78lue94o" width="350"/>
+<img src="https://pro-test.studio/images/TRphoto.jpg" width="350"/>
 
 **Female, 39&nbsp;years&nbsp;old, born&nbsp;on January 3,&nbsp;1985**
 
