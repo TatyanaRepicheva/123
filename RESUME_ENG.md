@@ -177,8 +177,8 @@
 ### Higher Education
 
 **2007**  
-Academy of&nbsp;Labor and&nbsp;Social Relations (VSHPD VCSP&nbsp;im.&nbsp;N.M.&nbsp;Shvernik), Moscow  
-Faculty of&nbsp;Law
+High: VSHPD VCSP&nbsp;im.&nbsp;N.M.&nbsp;Shvernik  
+
 
 ### Advanced Training&nbsp;Courses
 
