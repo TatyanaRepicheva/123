@@ -31,16 +31,12 @@
 ## Work Experience — 14&nbsp;years 6&nbsp;months
 
 <details>
-  <summary>September 2023&nbsp;— Present (11&nbsp;months)
+  <summary>September 2023&nbsp;— Present (11&nbsp;months)</summary>
 
   <br>Company: **Purrweb**, USA 
   <br>Position: **Head&nbsp;of&nbsp;QA**
   <br>Website: [purrweb.com](https://purrweb.com)
   <br>Industry: Information Technology, MVP products
-
-  </summary>
-
-  <br>
   
   **Responcibilities:**
   - Analysis (audit) of&nbsp;quality processes in&nbsp;testing projects
@@ -66,15 +62,10 @@
 <details>
   <summary>August 2022&nbsp;— August 2023 (1&nbsp;year 1&nbsp;month)</summary>
 
-  <br>
-  
-  **UULA**, Kuwait
+  <br>Company: **UULA**, Kuwait
+  <br>Position: **QA&nbsp;Principal**
   <br>Website: [uula.com](https://uula.com)
 
-  **QA&nbsp;Principal**
-   </summary>
-
-  <br>
   **Responcibilities:**
   - Establishing processes and&nbsp;standards for&nbsp;product testing (educational portal)
   - Developing quality metrics
@@ -93,11 +84,12 @@
 
   <br>
   
-  **Blueberry Consultants**  
-  Website: [bbconsult.co.uk](https://www.bbconsult.co.uk)  
+  Company: **Blueberry Consultants**
+  <br>Position: **QC&nbsp;Manager**
+  <br>Website: [bbconsult.co.uk](https://www.bbconsult.co.uk)  
   Industry: Information Technology, System Integration, Internet
 
-  **QC&nbsp;Manager**
+  **Responcibilities:**
   - Organizing the&nbsp;testing process for&nbsp;over 15&nbsp;projects (web, desktop, mobile applications for&nbsp;medical institutions, ecom, fintech)
   - Managing QA&nbsp;department: mentoring, recruitment, team motivation, organizing work, and&nbsp;creating roadmaps, resource allocation, performance review
   - Establishing effective interaction with&nbsp;senior managers and&nbsp;client teams (Project managers)
@@ -123,11 +115,12 @@
 
   <br>
   
-  **SoftServe**, Ukraine
+  Company: **SoftServe**, Ukraine
+  <br>Position: **QA&nbsp;Lead**
   <br>Website: [softserve.ua](https://www.softserve.ua)  
   Industry: Information Technology, System Integration, Internet
 
-  **QA&nbsp;Lead**
+  **Responcibilities:**
   - Developing and&nbsp;maintaining Test&nbsp;Plan and&nbsp;Test&nbsp;Strategy
   - Planning and&nbsp;improving QA&nbsp;process on&nbsp;the&nbsp;project
   - Requirement analysis
@@ -152,11 +145,12 @@
 
   <br>
   
-  **“ISD” (Information Systems Development)**, Ukraine
+  Company: **“ISD” (Information Systems Development)**, Ukraine
+  <br>Position: **QC&nbsp;Engineer**
   <br>Website: [isd.dp.ua](https://www.isd.dp.ua)  
   Industry: Information Technology, System Integration, Internet
 
-  **QC&nbsp;Engineer**
+  **Responcibilities:**
   - Writing, reviewing, correcting, updating, and&nbsp;executing test&nbsp;scenarios for&nbsp;software based&nbsp;on&nbsp;requirement analysis
   - All&nbsp;types of&nbsp;manual testing
   - Analyzing program code to&nbsp;write testing scenarios
