@@ -197,28 +197,22 @@ High: VSHPD VCSP&nbsp;im.&nbsp;N.M.&nbsp;Shvernik
 - English — C1&nbsp;— Advanced
 
 **Skills:**  
-- Layout testing
-- Scrum
-- Redmine
-- TeamCity
-- API
-- Postman
-- Atlassian Jira
-- Test plans writing
-- TestRail
-- SQL
-- Test design
-- Gitlab
-- REST
-- Swagger
-- Dev&nbsp;tools
 - Functional testing
-- QA
 - Regression testing
-- Test&nbsp;case
-- Team management
 - Load testing
 - Integration testing
+- Layout testing
+- Usability testing
+- API testing
+- Automation testing
+- Test design
+- Project documentation
+- Team management
+- Project management
+- Risk management
+- Operational management
+- Metrics
+- Reporting
 
 ---
 
