@@ -31,15 +31,17 @@
 ## Work Experience — 14&nbsp;years 6&nbsp;months
 
 <details>
-  <summary>September 2023&nbsp;— Present (11&nbsp;months)</summary>
-
-<br>
+  <summary>September 2023&nbsp;— Present (11&nbsp;months)
 
   **Purrweb**, USA
   <br>Website: [purrweb.com](https://purrweb.com)
-  <br>Industry: Information Technology, System Integration, Internet
+  <br>Industry: Information Technology, MVP products
 
   **Head&nbsp;of&nbsp;QA**
+  </summary>
+
+  <br>
+  **Responcibilities:**
   - Analysis (audit) of&nbsp;quality processes in&nbsp;testing projects
   - Monitoring implementation of&nbsp;improvement plans in&nbsp;projects
   - Monitoring KPI performance
@@ -69,6 +71,10 @@
   <br>Website: [uula.com](https://uula.com)
 
   **QA&nbsp;Principal**
+   </summary>
+
+  <br>
+  **Responcibilities:**
   - Establishing processes and&nbsp;standards for&nbsp;product testing (educational portal)
   - Developing quality metrics
   - Team formation: onboarding, motivation, performance analysis of&nbsp;QA&nbsp;engineers, training and&nbsp;developing QA&nbsp;engineers
