@@ -222,12 +222,6 @@ High: VSHPD VCSP&nbsp;im.&nbsp;N.M.&nbsp;Shvernik
 
 ---
 
-## Driving&nbsp;Experience
-
-Has own&nbsp;car
-
----
-
 ## Additional Information
 
 ### About&nbsp;Me
