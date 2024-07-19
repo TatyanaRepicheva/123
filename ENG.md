@@ -31,12 +31,15 @@
 ## Work Experience — 14&nbsp;years 6&nbsp;months
 
 <details>
-  <summary>September 2023&nbsp;— Present (11&nbsp;months)</summary>
+  <summary>September 2023&nbsp;— Present (11&nbsp;months)
 
   <br>Company: **Purrweb**, USA 
   <br>Position: **Head&nbsp;of&nbsp;QA**
   <br>Website: [purrweb.com](https://purrweb.com)
   <br>Industry: Information Technology, MVP products
+  </summary>
+
+  <br>
   
   **Responcibilities:**
   - Analysis (audit) of&nbsp;quality processes in&nbsp;testing projects
@@ -57,15 +60,19 @@
   - Established test automation from&nbsp;scratch in&nbsp;the&nbsp;company
   - Conducted training sessions for&nbsp;project managers
   - Developed a&nbsp;product segmentation constructor for&nbsp;the&nbsp;sales department and&nbsp;corresponding QA&nbsp;services
+<br>
 </details>
 
 <details>
-  <summary>August 2022&nbsp;— August 2023 (1&nbsp;year 1&nbsp;month)</summary>
-
+  <summary>August 2022&nbsp;— August 2023 (1&nbsp;year 1&nbsp;month)
+  
   <br>Company: **UULA**, Kuwait
   <br>Position: **QA&nbsp;Principal**
   <br>Website: [uula.com](https://uula.com)
+  </summary>
 
+  <br>
+  
   **Responcibilities:**
   - Establishing processes and&nbsp;standards for&nbsp;product testing (educational portal)
   - Developing quality metrics
@@ -77,18 +84,20 @@
   **Achievements:**
   - Implemented employee evaluation process across different grades, developed a&nbsp;competency matrix
   - Implemented Qase.io as&nbsp;a&nbsp;test&nbsp;case management system instead&nbsp;of&nbsp;Xray
+<br>
 </details>
 
 <details>
-  <summary>June 2016&nbsp;— July 2022 (6&nbsp;years 2&nbsp;months)</summary>
-
-  <br>
+  <summary>June 2016&nbsp;— July 2022 (6&nbsp;years 2&nbsp;months)
   
-  Company: **Blueberry Consultants**
+  <br>Company: **Blueberry Consultants**
   <br>Position: **QC&nbsp;Manager**
   <br>Website: [bbconsult.co.uk](https://www.bbconsult.co.uk)  
   Industry: Information Technology, System Integration, Internet
+  </summary>
 
+  <br>
+  
   **Responcibilities:**
   - Organizing the&nbsp;testing process for&nbsp;over 15&nbsp;projects (web, desktop, mobile applications for&nbsp;medical institutions, ecom, fintech)
   - Managing QA&nbsp;department: mentoring, recruitment, team motivation, organizing work, and&nbsp;creating roadmaps, resource allocation, performance review
@@ -108,18 +117,20 @@
   - Formed a&nbsp;stable and&nbsp;strong cohesive team, turnover reduced to&nbsp;zero
   - Implemented automated testing
   - Introduced test&nbsp;case management practice
+<br>
 </details>
 
 <details>
-  <summary>August 2013&nbsp;— June 2016 (2&nbsp;years 11&nbsp;months)</summary>
-
-  <br>
+  <summary>August 2013&nbsp;— June 2016 (2&nbsp;years 11&nbsp;months)
   
-  Company: **SoftServe**, Ukraine
+  <br>Company: **SoftServe**, Ukraine
   <br>Position: **QA&nbsp;Lead**
   <br>Website: [softserve.ua](https://www.softserve.ua)  
   Industry: Information Technology, System Integration, Internet
+  </summary>
 
+  <br>
+  
   **Responcibilities:**
   - Developing and&nbsp;maintaining Test&nbsp;Plan and&nbsp;Test&nbsp;Strategy
   - Planning and&nbsp;improving QA&nbsp;process on&nbsp;the&nbsp;project
@@ -138,18 +149,20 @@
   - Developed an&nbsp;adaptation plan and&nbsp;program
   - Optimized regression testing
   - Established interaction between QA&nbsp;team and&nbsp;developers/analysts
+<br>
 </details>
 
 <details>
-  <summary>February 2010&nbsp;— August 2013 (3&nbsp;years 7&nbsp;months)</summary>
+  <summary>February 2010&nbsp;— August 2013 (3&nbsp;years 7&nbsp;months)
 
-  <br>
-  
-  Company: **“ISD” (Information Systems Development)**, Ukraine
+  <br>Company: **“ISD” (Information Systems Development)**, Ukraine
   <br>Position: **QC&nbsp;Engineer**
   <br>Website: [isd.dp.ua](https://www.isd.dp.ua)  
   Industry: Information Technology, System Integration, Internet
+  </summary>
 
+  <br>
+  
   **Responcibilities:**
   - Writing, reviewing, correcting, updating, and&nbsp;executing test&nbsp;scenarios for&nbsp;software based&nbsp;on&nbsp;requirement analysis
   - All&nbsp;types of&nbsp;manual testing
@@ -162,6 +175,7 @@
 
   **Achievements:**
   - Was the&nbsp;only tester on&nbsp;the&nbsp;project, learned to&nbsp;work autonomously, managed projects independently
+<br>
 </details>
 
 ---
