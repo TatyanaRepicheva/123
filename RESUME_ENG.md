@@ -33,7 +33,8 @@
 <details>
   <summary>September 2023&nbsp;— Present (11&nbsp;months)
 
-  **Purrweb**, USA **Head&nbsp;of&nbsp;QA**
+  <br>Company: **Purrweb**, USA 
+  <br>Position: **Head&nbsp;of&nbsp;QA**
   <br>Website: [purrweb.com](https://purrweb.com)
   <br>Industry: Information Technology, MVP products
 
