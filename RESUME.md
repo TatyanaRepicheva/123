@@ -243,4 +243,4 @@ High: VSHPD VCSP&nbsp;im.&nbsp;N.M.&nbsp;Shvernik
 - Tools: SVN, GIT, Jmeter, SQL&nbsp;Server Management Studio, UNIX&nbsp;shell, virtual machines (VMWare), Postman, Swagger, Apollo, Charles Proxy, Playwright, Fiddler
 - Methodologies: Agile, SCRUM
 - Bug tracking and&nbsp;test&nbsp;case management systems: JIRA, Redmine, TestRail, Qase.io, Trello, Allure, YouTrack, Yandex Tracker, etc.
-- Programming languages: JS, XML, HTML, SQL, Unix&nbsp;shell&nbsp;script
+- Programming languages: JS, XML, HTML, SQL, Unix&nbsp;shell&nbsp;script.
