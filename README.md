@@ -4,7 +4,7 @@ In this repository, you will find information about my professional experience a
 
 Please check out my resume at the link below:
 
-- [My CV](https://github.com/TatyanaRepicheva/My-CV/blob/main/CV.md)
+- [My CV](https://github.com/TatyanaRepicheva/My-CV/blob/main/RESUME.md)
 
 <details>
 <summary>If you have any questions or suggestions, feel free to contact me</summary>
