@@ -41,7 +41,7 @@
 
   <br>
   
-  **Responcibilities:**
+  **Responsibilities:**
   - Analysis (audit) of&nbsp;quality processes in&nbsp;testing projects
   - Monitoring implementation of&nbsp;improvement plans in&nbsp;projects
   - Monitoring KPI performance
@@ -73,7 +73,7 @@
 
   <br>
   
-  **Responcibilities:**
+  **Responsibilities:**
   - Establishing processes and&nbsp;standards for&nbsp;product testing (educational portal)
   - Developing quality metrics
   - Team formation: onboarding, motivation, performance analysis of&nbsp;QA&nbsp;engineers, training and&nbsp;developing QA&nbsp;engineers
@@ -98,7 +98,7 @@
 
   <br>
   
-  **Responcibilities:**
+  **Responsibilities:**
   - Organizing the&nbsp;testing process for&nbsp;over 15&nbsp;projects (web, desktop, mobile applications for&nbsp;medical institutions, ecom, fintech)
   - Managing QA&nbsp;department: mentoring, recruitment, team motivation, organizing work, and&nbsp;creating roadmaps, resource allocation, performance review
   - Establishing effective interaction with&nbsp;senior managers and&nbsp;client teams (Project managers)
@@ -131,7 +131,7 @@
 
   <br>
   
-  **Responcibilities:**
+  **Responsibilities:**
   - Developing and&nbsp;maintaining Test&nbsp;Plan and&nbsp;Test&nbsp;Strategy
   - Planning and&nbsp;improving QA&nbsp;process on&nbsp;the&nbsp;project
   - Requirement analysis
@@ -163,7 +163,7 @@
 
   <br>
   
-  **Responcibilities:**
+  **Responsibilities:**
   - Writing, reviewing, correcting, updating, and&nbsp;executing test&nbsp;scenarios for&nbsp;software based&nbsp;on&nbsp;requirement analysis
   - All&nbsp;types of&nbsp;manual testing
   - Analyzing program code to&nbsp;write testing scenarios
